@@ -1,1 +1,1 @@
-# [JAVA Bootcamp Guide](../../wiki)
+# [JAVA BootCamp Guide](../../wiki)
